@@ -1,0 +1,4 @@
+python=3.8
+pycuda
+numpy
+cuda version 10.0
